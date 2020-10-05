@@ -82,16 +82,20 @@ body {
     margin-bottom: 50px;
 }
 
+#top-heading{
+    color: #eb2c22;
+}
 #main-content h3 {
     font-size: 1.6em;
     font-weight: bold;
     margin-bottom: 1em;
+    color: #18580b;
 }
 
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #f7c456;
     margin-bottom: 60px;
     box-shadow: 0 0 80px #18580b;
 }
